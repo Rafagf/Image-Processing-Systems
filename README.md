@@ -1,4 +1,4 @@
-Image-Processing-Systems
+Image Processing Systems
 ========================
 
 Three image processing systems developed using MatLAB.
