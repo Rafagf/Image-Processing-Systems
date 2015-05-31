@@ -44,7 +44,7 @@ en la paǵina 31 del Tema 5.
 
 Rafael García Fernández
 
-* _University of Granada (UGR)_
+* Linkedin: http://uk.linkedin.com/in/rafaelgarciafernandez
 * http://github.com/rafagf
 * Email: rafagarfer@gmail.com
 
